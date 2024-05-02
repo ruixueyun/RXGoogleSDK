@@ -42,6 +42,6 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
   
   s.platform = :ios, '12.0'
-  s.dependency 'GoogleSignIn', '7.1.0'
+  s.dependency 'GoogleSignIn', '6.2.4'
   
 end
