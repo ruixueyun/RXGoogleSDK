@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RXGoogleSDK'
-  s.version          = '1.0.4'
+  s.version          = '1.0.8'
   s.summary          = 'ruixue google framework.'
 
 # This description is used to generate tags and improve searc results.
