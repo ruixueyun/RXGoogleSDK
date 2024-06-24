@@ -4,6 +4,22 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/RXSDK_Pure.framework/Info.plist</key>
+		<data>
+		BTzHAZlxGUldEFmr5iK3XnP7pNo=
+		</data>
+		<key>Frameworks/RXSDK_Pure.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		qunPaOvK2DS3ITsX2KyLRZv6bp4=
+		</data>
+		<key>Frameworks/RXSDK_Pure.framework/RXSDK_Pure</key>
+		<data>
+		Y26nvSK0hwKosq0XI40jiJq+Z+M=
+		</data>
+		<key>Frameworks/RXSDK_Pure.framework/_CodeSignature/CodeResources</key>
+		<data>
+		JILxoClMx101ZNeAFBR4pVa4daA=
+		</data>
 		<key>Headers/RXGoogleSDK.h</key>
 		<data>
 		F5R1OHcSbi4Sn1cLVOCGaA5RWqo=
@@ -27,6 +43,34 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/RXSDK_Pure.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DC3KbZ+APbZ0PQuP7YRWOS91L1szyMO+gMrGQdsuxKk=
+			</data>
+		</dict>
+		<key>Frameworks/RXSDK_Pure.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R06fLLkXlXg6gozQUpR+AGZ2p6vFUZykUZ63pPQs9hM=
+			</data>
+		</dict>
+		<key>Frameworks/RXSDK_Pure.framework/RXSDK_Pure</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3VFIhyAqUZAo5vIxX4d0bLHnvwUmdLW+W5PkqELfaeQ=
+			</data>
+		</dict>
+		<key>Frameworks/RXSDK_Pure.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2io0H8i0DjX2A8uWxEuVKueh5axSa4WZAVuF/PdeRiA=
+			</data>
+		</dict>
 		<key>Headers/RXGoogleSDK.h</key>
 		<dict>
 			<key>hash2</key>
