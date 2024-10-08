@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RXGoogleSDK'
-  s.version          = '1.1.3'
+  s.version          = '1.1.4'
   s.summary          = 'ruixue google framework.'
 
 # This description is used to generate tags and improve searc results.
@@ -43,5 +43,6 @@ TODO: Add long description of the pod  here.
   
   s.platform = :ios, '12.0'
   s.dependency 'GoogleSignIn', '7.1.0'
+  s.dependency 'RXSDK_Pure'
   
 end
