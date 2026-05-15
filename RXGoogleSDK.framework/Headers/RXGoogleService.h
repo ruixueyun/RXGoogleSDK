@@ -18,11 +18,6 @@ NS_ASSUME_NONNULL_BEGIN
 + (instancetype)sharedSDK;
 
 /**
- * 初始化
- */
-- (void)regist;
-
-/**
  * 注册谷歌
  */
 - (void)GRegistWithClientID:(NSString *)clientID;
